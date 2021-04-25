@@ -3,11 +3,12 @@ It allows the developer to control the position of the SnappingSheet:
     - Change it relatively or absolutely
     - Execute the change with\without animation
     - Disabling the snapping of the sheet
-It allows the developer to extract information from the sheet
-    - Mid snapping indicator
-    - Current position of the sheet
-    - Current snapping position of the sheet on the widget bellow it
-    - Attachment to controller indicator
+
+    It allows the developer to extract information from the sheet
+        - Mid snapping indicator
+        - Current position of the sheet
+        - Current snapping position of the sheet on the widget bellow it
+        - Attachment to controller indicator
     
 2)  The parameter that control this behavior called snappingCurve.
 
