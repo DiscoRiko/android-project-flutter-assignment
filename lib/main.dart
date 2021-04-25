@@ -90,8 +90,6 @@ class _RandomWordsState extends State<RandomWords> {
                     : _buildSuggestions()));
   }
 
-  void _onChangeAvaterPress() {}
-
   Widget _buildSuggestions() {
     return ListView.builder(
         padding: const EdgeInsets.all(16),

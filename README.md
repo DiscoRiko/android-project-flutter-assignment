@@ -3,7 +3,6 @@ It allows the developer to control the position of the SnappingSheet:
     - Change it relatively or absolutely
     - Execute the change with\without animation
     - Disabling the snapping of the sheet
-
 It allows the developer to extract information from the sheet
     - Mid snapping indicator
     - Current position of the sheet
